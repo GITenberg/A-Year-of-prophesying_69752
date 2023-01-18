@@ -1,0 +1,31 @@
+_repo: A-Year-of-prophesying_69752
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: https://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_issued: '2023-01-09'
+identifiers:
+  gutenberg: '69752'
+language: en
+pgterms:marc904: https://archive.org/details/yearofprophesyin00well/page/n7/mode/2up
+pgterms:marc905: 20210118021113wells
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: 'United States: The Macmillan Company,1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Year of prophesying
+url: http://www.gutenberg.org/ebooks/69752
